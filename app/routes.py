@@ -170,6 +170,6 @@ def audio_to_image():
         return jsonify({'error': str(e)}), 500
         
 
-@bp.routeroute('/', methods=['GET'])
+@bp.router('/', methods=['GET'])
 def helloworld():
     return "Hello World!"
