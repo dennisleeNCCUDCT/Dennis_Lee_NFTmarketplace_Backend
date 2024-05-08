@@ -1,2 +1,2 @@
-docker build -t help-transfer-crpto .
-docker run -p 8080:8080 help-transfer-crpto
+docker build -t dennis_lee_nftmarketplace_backend .
+docker run -p 8080:8080 dennis_lee_nftmarketplace_backend
