@@ -1,0 +1,2 @@
+docker build -t help-transfer-crpto .
+docker run -p 8080:8080 help-transfer-crpto

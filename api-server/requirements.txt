@@ -1,0 +1,13 @@
+Flask==2.1.2
+Flask-SQLAlchemy==2.5.1
+pymysql==1.0.2
+SQLAlchemy==1.4.32
+python-dotenv==0.19.2
+Flask-Migrate==3.1.0
+Flask-Cors==3.0.10
+gunicorn==20.1.0
+marshmallow==3.14.1  # Ensure this matches the version you need
+Werkzeug==2.0.3      # Make sure the version is compatible with Flask 2.1.2
+pymysql>=1.0.2
+Pillow==10.3.0
+SciPy==1.13.0
